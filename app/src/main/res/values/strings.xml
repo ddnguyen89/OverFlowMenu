@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OverFlowMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="over_flow">OverFlow</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="gray">Gray</string>
+    <string name="name">Your Name</string>
+    <string name="application_updates">Application Updates</string>
+    <string name="download_details">Download Details</string>
+
+    <string-array name="ListArray">
+        <item>Headings</item>
+        <item>Headings and Details</item>
+        <item>All Data</item>
+    </string-array>
+
+    <string-array name="ListValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
